@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Trinity-Atom
+- 👀 I’m interested in engineering and applied science
+- 🌱 I’m currently studying Telematic Engineering.
+- 💞️ I’m looking to collaborate on 3D printing, AI, drones, electronics, IoT, Smart Cities... Don't know, it depends on the day
+- 📫 How to reach me: Send me an email to sfgmwork@gmail.com
